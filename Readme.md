@@ -6,8 +6,8 @@
 
 **GDS Flight Ticketing Automation Desktop App**
 
-[![Version](https://img.shields.io/badge/version-1.0.7-blue.svg)](https://github.com/MNaguib2/APPS-FLIGHTS/releases/latest)
-[![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)](https://github.com/MNaguib2/APPS-FLIGHTS/releases/latest)
+[![Version](https://img.shields.io/badge/version-1.0.7-blue.svg)](https://github.com/etolv2023/GDS/releases/download/1.0.0/Etolv-FLIGHT-Setup-1.0.0.exe)
+[![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)](https://github.com/etolv2023/GDS/releases/download/1.0.0/Etolv-FLIGHT-Setup-1.0.0.exe)
 [![Electron](https://img.shields.io/badge/electron-v33-47848F.svg)](https://electronjs.org)
 [![License](https://img.shields.io/badge/license-ISC-green.svg)](LICENSE)
 
@@ -15,11 +15,11 @@
 
 ## ⬇️ Download Latest Version
 
-<a href="https://github.com/MNaguib2/APPS-FLIGHTS/releases/latest">
+<a href="https://github.com/etolv2023/GDS/releases/download/1.0.0/Etolv-FLIGHT-Setup-1.0.0.exe">
   <img src="https://img.shields.io/badge/Download%20Latest-v1.0.7-brightgreen?style=for-the-badge&logo=github" alt="Download Latest Release">
 </a>
 
-> Click the button above or go to [**GitHub Releases**](https://github.com/MNaguib2/APPS-FLIGHTS/releases/latest) and download the installer (`.exe`) for Windows.
+> Click the button above or go to [**GitHub Releases**](https://github.com/etolv2023/GDS/releases/download/1.0.0/Etolv-FLIGHT-Setup-1.0.0.exe) and download the installer (`.exe`) for Windows.
 
 </div>
 
@@ -219,7 +219,7 @@ Local TKT Folder
 
 ### Installation Steps
 
-**Step 1** — Go to the [**Releases Page**](https://github.com/MNaguib2/APPS-FLIGHTS/releases/latest)
+**Step 1** — Go to the [**Releases Page**](https://github.com/etolv2023/GDS/releases/download/1.0.0/Etolv-FLIGHT-Setup-1.0.0.exe)
 
 **Step 2** — Under **Assets**, download the `.exe` installer file
 > Example filename: `Etolv-FLIGHT-Setup-1.0.7.exe`
@@ -362,7 +362,7 @@ When a new version is available:
 2. A notification prompts the user to restart and install.
 3. The update is applied automatically on next launch.
 
-To manually check the latest release: [https://github.com/MNaguib2/APPS-FLIGHTS/releases/latest](https://github.com/MNaguib2/APPS-FLIGHTS/releases/latest)
+To manually check the latest release: [https://github.com/etolv2023/GDS/releases/download/1.0.0/Etolv-FLIGHT-Setup-1.0.0.exe](https://github.com/etolv2023/GDS/releases/download/1.0.0/Etolv-FLIGHT-Setup-1.0.0.exe)
 
 ---
 
